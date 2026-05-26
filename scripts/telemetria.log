@@ -1,0 +1,4 @@
+sensor_temp: 23C
+sensor_hum: 60%
+sensor_temp: 85C
+error_voltaje: 12V
